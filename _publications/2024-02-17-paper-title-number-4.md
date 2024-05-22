@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Software Registration on Manufacturing Export"
-collection: publications
+collection: accpted
 permalink: /publication/2024-05-22-paper-title-number-1
 Abstract: 'This paper investigates the effect of software registration on China’s manufacturing ex-
 ports from 2000 to 2013 against the backdrop of rapid growth in the digital economy
