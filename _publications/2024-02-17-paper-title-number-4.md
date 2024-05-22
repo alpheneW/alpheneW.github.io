@@ -17,7 +17,7 @@ between software registration and firm exports, providing a novel perspective on
 digital economy’s influence on international trade.'
 date: 2024-05-22
 venue: 'Applied Economics'
-paperurl: 'http://academicpages.github.io/files/The Effect of Software Registration on Manufacturing Export.pdf'
+paperurl: 'http://alpheneW.github.io/files/The_Effect_of_Software_Registration_on_Manufacturing_Export.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 1.&quot; <i>Applied Economics</i>. 1(3).'
 ---
 
